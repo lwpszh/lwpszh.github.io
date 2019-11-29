@@ -1,5 +1,5 @@
 ---
-title:  "A Craftsman Workshop"
+title:  "红红火火恍恍惚惚"
 subtitle: "It's always a bit messy"
 author: "n"
 avatar: "img/authors/nadun.jpg"
