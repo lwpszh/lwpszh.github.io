@@ -18,12 +18,12 @@ authors:
   lwp:
     name: lwp
     display_name: LWP
-    gravatar: 44805e4cbdf73b5f10d355bdf428f6b3
+    gravatar: 1ee5057c0c5cd41ee68b90df84a52fd6
     description: "Love."
   szh:
     name: szh
     display_name: SZH    
-    gravatar: 66b4e8e4d32cf225668e79553f8a63bd
+    gravatar: 1ee5057c0c5cd41ee68b90df84a52fd6
     description: "Love."
 
 # Plugins
