@@ -113,10 +113,13 @@ img, img:hover {
     animation: fade-up 0.7s ease-out forwards running;
 }
 // menu
+.navbar-brand {
+    width: 100%;
+}
 .navbar-brand img {
     max-height:80px;
-//    margin-bottom:40px;
-//    margin-top:40px;
+    display: block;
+    margin: 40px auto;
 }
 .sidebar {
     position: fixed;
@@ -404,6 +407,7 @@ img, img:hover {
     font-size:50px;
     font-weight:700;
     line-height:1.2;
+    text-align: center;
 }
 .entry-featured-image {  
     width:940px;  
